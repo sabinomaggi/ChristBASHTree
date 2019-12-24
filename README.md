@@ -14,6 +14,9 @@ curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-E
 
 # Spanish version
 curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
+
+# NEW Italian version
+curl https://raw.githubusercontent.com/sabinomaggi/ChristBASHTree/master/tree-IT.sh | bash
 ```
 
 Via Wget:
@@ -24,6 +27,9 @@ wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/t
 
 # Spanish version
 wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
+
+# NEW Italian version
+wget -qO- https://raw.githubusercontent.com/sabinomaggi/ChristBASHTree/master/tree-IT.sh | bash
 ```
 
 Docker:
@@ -37,6 +43,10 @@ Git clone and execute:
 
 ```
 git clone https://github.com/sergiolepore/ChristBASHTree.git && cd ./ChristBASHTree && bash tree-EN.sh
+
+or
+
+git clone https://github.com/sabinomaggi/ChristBASHTree.git && cd ./ChristBASHTree && bash tree-IT.sh
 ```
 
 __Enjoy!__
